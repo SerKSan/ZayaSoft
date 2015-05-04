@@ -5,7 +5,7 @@ public class Modulo1 {
 		
 		for (int i=0; i<N; i++)
 		{
-			System.out.println("Modulo ejecutandose");
+			System.out.println("Modulo ejecutandose ");
 		}
 	}
 
